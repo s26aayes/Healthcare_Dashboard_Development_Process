@@ -11,4 +11,4 @@ A Bar Chart showing Avg/Med Wait List by Time_Bands, highlighting long-term wait
 Line Charts tracking the trend in total values over time, both for individual case types and overall trends.
 A Table displaying average wait list values by medical specialty, such as Ophthalmology and Paediatric Respiratory.
 The visual design uses color coding for easy distinction between metrics, and interactive slicers enhance user-driven analysis. The dashboard effectively supports healthcare operations and planning by revealing trends, bottlenecks, and service demands across time.
-[image alt](https://github.com/s26aayes/Healthcare_Dashboard_Development_Process/blob/main/Dashboard.png?raw=true)
+![image alt](https://github.com/s26aayes/Healthcare_Dashboard_Development_Process/blob/main/Dashboard.png?raw=true)
