@@ -1,4 +1,4 @@
-# Healthcare_Dashboard_Development_Process
+# Healthcare_Dashboard_Development_Process_PowerBI
 This Power BI dashboard provides a comprehensive overview of healthcare wait list data, segmented by case types and time periods. Key features include:
 KPI Cards displaying the latest month’s wait list total (709K) and comparison with the previous year (640K).
 A Donut Chart breaking down total values by Case_Type (Outpatient, Day Case, Inpatient).
